@@ -40,6 +40,9 @@ Fake news has become a serious problem in today's digital world. This notebook u
 ![Screenshot (364)](https://github.com/user-attachments/assets/f9003050-b5ea-4290-9d97-7953f4e3d91b)
 ![Screenshot (365)](https://github.com/user-attachments/assets/38b95ef9-7ec4-4870-bb65-47de525e841f)
 ![Screenshot (366)](https://github.com/user-attachments/assets/318623d3-1448-4f64-9270-cca758a71649)
+![Screenshot (367)](https://github.com/user-attachments/assets/ec855c00-8a7a-4740-882b-418c975eece8)
+![Screenshot (368)](https://github.com/user-attachments/assets/72891523-7fca-4896-810b-40df61421163)
+
 
 
 
