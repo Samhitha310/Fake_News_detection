@@ -37,6 +37,11 @@ Fake news has become a serious problem in today's digital world. This notebook u
 ## 📊 Output
 
 ![Confusion Matrix](images/confusion_matrix.png)
+![Screenshot (364)](https://github.com/user-attachments/assets/f9003050-b5ea-4290-9d97-7953f4e3d91b)
+![Screenshot (365)](https://github.com/user-attachments/assets/38b95ef9-7ec4-4870-bb65-47de525e841f)
+![Screenshot (366)](https://github.com/user-attachments/assets/318623d3-1448-4f64-9270-cca758a71649)
+
+
 
 > Add your model output/image plots in the `images/` folder and commit them to GitHub.
 
